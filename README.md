@@ -1,2 +1,2 @@
-# 2.5D HTBSG
+# 2.5D Hexagonal Turn-Based Strategy Game (2021)
  
