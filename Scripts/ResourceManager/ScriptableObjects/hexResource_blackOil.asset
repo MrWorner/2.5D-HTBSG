@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a387a74d5d4dba84f9e95961b6f204bd, type: 3}
+  m_Name: hexResource_blackOil
+  m_EditorClassIdentifier: 
+  id: blackOil
+  resourceName: Black oil
+  description: 
+  cellType: {fileID: 11400000, guid: 3ec11bc4a8c7fb248824a2cd60c83857, type: 2}
+  _groundVariants:
+  - {fileID: 11400000, guid: 441c3fad6e10f094392979a30f358994, type: 2}
+  _objectVariants:
+  - {fileID: 11400000, guid: 028fb1e2d7b29e74b9529d69a36d74f3, type: 2}

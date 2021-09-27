@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083500fd1f3ee99449d0be5908b222a8, type: 3}
+  m_Name: hexCellType_Grass
+  m_EditorClassIdentifier: 
+  _id: grass
+  _cellName: Grass
+  _description: "\u0422\u0440\u0430\u0432\u0430"
+  _groundVariants:
+  - {fileID: 11400000, guid: 441c3fad6e10f094392979a30f358994, type: 2}
+  _objectVariants:
+  - {fileID: 11400000, guid: 434ae89e521e0ab4bb9614af90a12e74, type: 2}
+  _movementCost: 1
+  _groundType: 0

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aa06f0850f371548914dfbc900342e4, type: 3}
+  m_Name: hexRiver_AC
+  m_EditorClassIdentifier: 
+  _id: 8
+  _tile: {fileID: 11400000, guid: 03328479af7d3a64183dd6a93281627b, type: 2}

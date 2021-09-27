@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083500fd1f3ee99449d0be5908b222a8, type: 3}
+  m_Name: hexCellType_Forest
+  m_EditorClassIdentifier: 
+  _id: forest
+  _cellName: Forest
+  _description: "\u041B\u0435\u0441"
+  _groundVariants:
+  - {fileID: 11400000, guid: 62da8dcf60a9ba84fb4d1b3821bd77eb, type: 2}
+  _objectVariants:
+  - {fileID: 11400000, guid: 7b2ee72fc83645247a4e7ef9374da777, type: 2}
+  _movementCost: 3
+  _groundType: 3
